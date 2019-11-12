@@ -1,5 +1,5 @@
 class WorldOfGames:
-
+#123
 # 10.11.2019 by yaron zvi - devops course
 
 #This function has a person name as an input and returns a string in the following layout:
@@ -31,5 +31,4 @@ class WorldOfGames:
                 return
         else:
                print(gameoption, gamedifficulty)
-
 
